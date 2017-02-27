@@ -1,5 +1,6 @@
 # Pinspiration
 
+Tonight's full-stack assignment will be creating Pinspiration, an idea-sharing platforms that functions just like [Pinterest.com](https://www.pinterest.com/)
 
 - Create new rails app called `pinspiration_api`
 - set up cors
